@@ -15,8 +15,10 @@ Spencer Randolp
 Hello, my name is Spencer Randolph. I am from Syracuse and currently a freshmen software engineer major at RIT. I spend most of my free time lifting in the gym.
 ### Header 3
 
-- Bulleted
-- List
+- devolp problem solving abilities
+- learn how to understand better
+- work in teams better
+- work on comuinication
 
 1. Numbered
 2. List
