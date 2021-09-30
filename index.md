@@ -25,8 +25,10 @@ Hello, my name is Spencer Randolph. I am from Syracuse and currently a freshmen 
 
 **Bold** and _Italic_ and `Code` text
 
-[link](url) and ![Image](https://images.immediate.co.uk/production/volatile/sites/30/2021/07/Roast-seafood-dish-b585388.jpg?quality=90&webp=true&resize=300,272)
+[link](url) and 
 ```
+![Image](https://images.immediate.co.uk/production/volatile/sites/30/2021/07/Roast-seafood-dish-b585388.jpg?quality=90&webp=true&resize=300,272)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
