@@ -23,7 +23,7 @@ Hello, my name is Spencer Randolph. I am from Syracuse and currently a freshmen 
 
 **Bold** and _Italic_ and `Code` text
 
-[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bbcgoodfood.com%2Frecipes%2Fcollection%2Fseafood-recipes&psig=AOvVaw1KrxkwcdZGAw1R9G2cS0Gu&ust=1633058561048000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDlsazfpfMCFQAAAAAdAAAAABAE](url) and ![Image](src)
+[https://images.immediate.co.uk/production/volatile/sites/30/2021/07/Roast-seafood-dish-b585388.jpg?quality=90&webp=true&resize=300,272](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
