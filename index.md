@@ -13,20 +13,17 @@ Syntax highlighted code block
 
 Spencer Randolp
 Hello, my name is Spencer Randolph. I am from Syracuse and currently a freshmen software engineer major at RIT. I spend most of my free time lifting in the gym.
-### Header 3
 
 - devolp problem solving abilities
 - learn how to understand better
 - work in teams better
 - work on comuinication
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[link](url) and 
 ```
+[link](http://www.se.rit.edu/~swen-101/00/index.html)
+
 ![Image](https://images.immediate.co.uk/production/volatile/sites/30/2021/07/Roast-seafood-dish-b585388.jpg?quality=90&webp=true&resize=300,272)
 
 
